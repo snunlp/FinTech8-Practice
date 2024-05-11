@@ -2,7 +2,7 @@
 서울대학교 빅데이터 핀테크 과정 8기 자연어처리 과목 실습
 
 
-## 1.  PyTorch 기초 실습 (텐서 기초 연산 및 기울기 기반 학습법)
+## 1.  Welcome to NLP; PyTorch 기초 실습 (텐서 기초 연산, 기울기 기반 학습법, 손실 함수, Linear Regression, Logistic Regression)
 
 
 ## 2. PyTorch 및 TorchText 기반 Seq2Seq 모델 개발 방법론 (CNN, LSTM, Transformers, Attention)
