@@ -1,1 +1,29 @@
+# Welcome to Huggingface 🤗
 
+## Huggingface Pipeline
+- [Pipeline Tutorial](https://huggingface.co/docs/transformers/pipeline_tutorial)
+
+### Model Installation
+- [Installation Guide](https://huggingface.co/docs/transformers/installation)
+
+## Huggingface Models
+- [Available Models](https://huggingface.co/models)
+
+## Huggingface Datasets
+- [Datasets Documentation](https://huggingface.co/docs/datasets/index)
+
+## Tutorials
+### Preprocess
+### Training
+### Specialized Training Techniques
+- [PEFT Training](https://huggingface.co/docs/transformers/peft)
+- [Accelerate](https://huggingface.co/docs/accelerate/index)
+- [Agents](https://huggingface.co/docs/transformers/agents)
+- [Generation with Large Language Models (LLMs)](https://huggingface.co/docs/transformers/llm_tutorial)
+  - [Conversations](https://huggingface.co/docs/transformers/conversations)
+
+## Huggingface Notebooks
+- [Notebooks](https://huggingface.co/docs/transformers/notebooks)
+
+## OpenSource AI Cookbook
+- [Prompt Tuning & PEFT](https://huggingface.co/learn/cookbook/prompt_tuning_peft)
